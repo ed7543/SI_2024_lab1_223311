@@ -1,0 +1,13 @@
+1) preku github (dadeniot link) ja preimenuvav grankata main vo master
+2) so komandata git clone ja klonirav lokalno repozitorijata koja sto ja napraviv        
+3) ja inizijalizirav so git init i dodadov README fajl kade sto go napisav moeto ime, prezime i indeks
+4) go napraviv mojot prv commit posle koristejki ja komandata git add za README fajlot so poraka Initial commit
+5) potoa na mojata master granka gi staviv 3te fajlovi koi ni bea dadeni vo dokumentot i napraviv commit
+6) potoa so git push ja sinhronizirav lokalnata repozitorija so remote 
+7) napraviv 2 granki bug1 i bug2 kade sto gi promeniv fajlovite od link2 i link3 i za dvete napraviv commit
+8) dvete granki gi pushnav koristejki ja komandata git push --set-upstream origin bug1 i git push --set-upstream origin bug2
+9) potoa gi merge-nav bug1 i master i napraviv push
+10) potoa napraviv git rebase kade sto imase konflikt i gi merge-nav bug 2 i master
+11) vo master grankata napraviv nov tekst fajl koj sto go imenuvav logs.txt i tamu gi staviv moite logs koristejki ja git log komandata
+
+

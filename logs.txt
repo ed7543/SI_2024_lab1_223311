@@ -1,0 +1,30 @@
+commit 7b905d0570d5af5591fe02ce8ebb0297bfb0f537 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: ed7543 <ed7543@student.uni-lj.si>
+Date:   Tue Mar 19 18:49:10 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e6d56e78ad170b7d47e6e7ae7eb73790098988d1 (origin/bug1, bug1)
+Author: ed7543 <ed7543@student.uni-lj.si>
+Date:   Tue Mar 19 18:52:05 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 2a85b62b13c14cea6cdbd7b94cbc904b20686330
+Author: ed7543 <ed7543@student.uni-lj.si>
+Date:   Tue Mar 19 18:45:27 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 504c7f3c94c8e475201eecb48aa4575d1b2e58b7
+Author: ed7543 <ed7543@student.uni-lj.si>
+Date:   Tue Mar 19 18:39:21 2024 +0100
+
+    Add starter code
+
+commit 05e528ea7581608db6cf796a001aa95ac9d5fcb8
+Author: ed7543 <ed7543@student.uni-lj.si>
+Date:   Tue Mar 19 18:37:10 2024 +0100
+
+    Initial commit
+
